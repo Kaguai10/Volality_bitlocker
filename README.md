@@ -1,4 +1,4 @@
-# How to Install Volatility on Linux
+# How to Install Volatility on Linux 
 [Volatility](https://www.volatilityfoundation.org) is a powerful tool used for analyzing memory dumps on Linux, Mac, and Windows systems. On Linux and Mac systems, one has to build profiles separately, and notably, they must match the memory system profile (building a Ubuntu 18.04.3 profile to analyze a Ubuntu 18.04.4 system will not work). This article will go over all the dependencies that need to be downloaded as well as how to build a profile.
 
 # Dependencies
