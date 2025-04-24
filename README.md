@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=How+to+Install+Volatility+on+Linux">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=600&lines=How+to+Install+Volatility+on+Linux">
 </div>
 
 [Volatility](https://www.volatilityfoundation.org) is a powerful tool used for analyzing memory dumps on Linux, Mac, and Windows systems. On Linux and Mac systems, one has to build profiles separately, and notably, they must match the memory system profile (building a Ubuntu 18.04.3 profile to analyze a Ubuntu 18.04.4 system will not work). This article will go over all the dependencies that need to be downloaded as well as how to build a profile.
